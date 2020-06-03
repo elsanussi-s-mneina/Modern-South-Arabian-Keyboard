@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.modernsoutharabiankeyboard</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Modern South Arabian Keyboard</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Arabic - PC copy</key>
+	<key>KLInfo_Arabic - South Arabian Extensions</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..arabic-pccopy</string>
+		<string>org.sil.ukelele.keyboardlayout.modernsoutharabiankeyboard.arabic-southarabianextensions</string>
 		<key>TISIntendedLanguage</key>
 		<string>ar</string>
 	</dict>
